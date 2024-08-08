@@ -12,17 +12,29 @@ body {
 }
 
 /* =======================Header========================== */
-.header {
+
+.fixed-header {
+  background-color: var(--color-zumthor);
+  padding-top: 26px;
+  position: sticky;
+  top: -26px;
+  z-index: 1;
+}
+
+.hero-wrapper {
   height: 100vh;
   background-color: var(--color-zumthor);
   position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-top: 26px;
 }
 
 /* Navbar */
 .navbar {
   display: flex;
   align-items: center;
-  padding-top: 38px;
+  padding: 12px 0;
 }
 
 /* <!-- Logo --> */
