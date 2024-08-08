@@ -1,0 +1,68 @@
+:root {
+  /* Color */
+
+  --color-primary: #0f1b4c;
+  --color-secondary: #0689ff;
+  --color-zumthor: #e6f0ff;
+  --color-trout: #4f5361;
+  --color-while: #fff;
+  --color-black: #000;
+  --color-lynch: #687690;
+  --color-stratos: #000336;
+  --color-gray: #5a6473;
+  --color-shark: #1c1c1d;
+  --color-silver: #c2c2c2;
+  --color-jumbo: #7a7a7e;
+  --color-rollin-stone: #7b8087;
+  --color-rolling-stone: #7d8589;
+  --color-yellow: #ffca56;
+  --color-tuna: #3b3c45;
+  --color-selago: #f5fafe;
+  --color-mercury: #e9e9e9;
+  --color-tundora: #444444;
+  --color-alabaster: #f9f9f9;
+  --color-silver-chalice: #a7a7a7;
+  --color-gray-chateau: #a3a6ab;
+  --color-midnight-blue: #002366;
+  --color-catalina-blue: #063183;
+
+  /* Font size */
+
+  --font-size-3xs: 1.2rem;
+  --font-size-2xs: 1.3rem;
+  --font-size-xs: 1.4rem;
+  --font-size-sm: 1.6rem;
+  --font-size-md: 1.8rem;
+  --font-size-lg: 2rem;
+  --font-size-xl: 2.6rem;
+  --font-size-2xl: 3.5rem;
+  --font-size-2xl: 6.4rem;
+
+  /* Line height */
+
+  --line-height-4xs: 14px;
+  --line-height-3xs: 18px;
+  --line-height-2xs: 19.5px;
+  --line-height-xs: 20px;
+  --line-height-sm: 21px;
+  --line-height-2sm: 22px;
+  --line-height-3sm: 24px;
+  --line-height-4sm: 27px;
+  --line-height-md: 30px;
+  --line-height-lg: 32px;
+  --line-height-xl: 35px;
+  --line-height-2xl: 45px;
+  --line-height-3xl: 64px;
+  --line-height-4xl: 76px;
+
+  /* font weight */
+  --font-weight-default: 400;
+  --font-weight-xs: 500;
+  --font-weight-sm: 600;
+  --font-weight-bold: 700;
+  --font-weight-extra-bold: 800;
+
+  /* Border Radius */
+  --border-radius-default: 8px;
+  --border-radius-sm: 12px;
+}
